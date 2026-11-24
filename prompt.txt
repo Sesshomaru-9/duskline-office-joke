@@ -1,0 +1,3 @@
+One-Line Office Joke: 24-Hour Sprint — "Duskline Office Joke"
+
+A single-line joke about office life, the sort of line you send a colleague after a meeting that should have been an email. At most 200 characters. Judge reads jokes pairwise.
